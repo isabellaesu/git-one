@@ -7,3 +7,9 @@ git-init:
 
 hello:
 	echo "hello"
+
+Project Ideas:
+	Automatic plant watering for individual pot
+	Dog food alarm that alerts Zach untitl he feeds them
+	Alert to water plants
+	Hummingbird camera		
